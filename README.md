@@ -1,5 +1,5 @@
 - 👋 Hey! It's Shristi Sahay
-- 👀 I’m interested in App and web development and in competitive coding too
+- 👀 I’m interested in App and web development and in Data Science and Data analysis
 - 🌱 I’m currently learning Machine learning AI
 - 📫 You can reach me through email shristisahay425@gmail.com
 
